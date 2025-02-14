@@ -1,5 +1,7 @@
 ## Wayz
-### A better way, the best Wayz.
+A better way, the best Wayz.
+
+https://status.wayz.ovh/
 
 #### Production
 
