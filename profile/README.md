@@ -1,7 +1,7 @@
 ## Wayz
 A better way, the best Wayz.
 
-https://status.wayz.ovh/
+Check the status of our apps: https://status.wayz.ovh/
 
 #### Production
 
