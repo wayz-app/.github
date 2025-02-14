@@ -12,7 +12,7 @@ https://wayz.ovh/ <br>
 https://api.wayz.ovh/ <br>
 <img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/54/uptime">
 
-MongoDB <br>
+MongoDB (wayz-api.9qguz.mongodb.net) <br>
 <img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/55/uptime">
 
 #### Pre-production<br>
@@ -24,5 +24,5 @@ https://preprod.wayz.ovh/ <br>
 https://api.preprod.wayz.ovh/ <br>
 <img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/50/uptime">
 
-MongoDB <br>
+MongoDB (wayz-api.dafug.mongodb.net) <br>
 <img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/49/uptime">
