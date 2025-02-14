@@ -8,3 +8,6 @@ https://wayz.ovh/ <br>
 
 https://api.wayz.ovh/ <br>
 <img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/54/uptime">
+
+MongoDB <br>
+<img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/55/uptime">
