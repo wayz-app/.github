@@ -13,3 +13,14 @@ https://api.wayz.ovh/ <br>
 
 MongoDB <br>
 <img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/55/uptime">
+
+#### Pre-production
+
+https://preprod.wayz.ovh/ <br>
+<img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/51/uptime">
+
+https://api.preprod.wayz.ovh/ <br>
+<img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/50/uptime">
+
+MongoDB <br>
+<img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/49/uptime">
