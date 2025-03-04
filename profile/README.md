@@ -26,7 +26,7 @@ Check the status of our apps: https://status.wayz.ovh/
 <pre>
 Repositories
 ├── Applications
-│   ├── <a href="../../../../wayz-api">wayz-api</a>
+│   ├── [wayz-api](../../../../wayz-api)
 │   ├── <a href="../../../../wayz-web">wayz-web</a>
 │   ├── <a href="../../../../wayz-ios">wayz-ios</a>
 ├── Deployments
