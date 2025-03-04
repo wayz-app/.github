@@ -7,7 +7,7 @@ Check the status of our apps: https://status.wayz.ovh/
   - **Applications**
     - [wayz-api](../../../../wayz-api)
     - [wayz-web](../../../../wayz-web)
-    - [wayz-web](../../../../wayz-ios)
+    - [wayz-ios](../../../../wayz-ios)
   - **Deployments**
   - **Infrastructure as code (IaC)**
 
