@@ -29,10 +29,10 @@ MongoDB (wayz-api.dafug.mongodb.net) <br>
 
 
 
-- Repositories
-  - Applications
+- **Repositories**
+  - **Applications**
     - [wayz-api](../../../../wayz-api)
     - [wayz-web](../../../../wayz-web)
-  - Deployments
+  - **Deployments**
     - [wayz-api](/wayz-api)
     - [wayz-web](/wayz-web)
