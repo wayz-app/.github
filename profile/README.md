@@ -18,5 +18,7 @@ Check the status of our apps: https://status.wayz.ovh/
   - **📁 Infrastructure as code (IaC)**
     - [wayz-terraform](../../../../wayz-terraform)
     - [wayz-ansible](../../../../wayz-ansible)
+  - **📁 Documentation**
+    - [.github](../../../../.github)
     
 
