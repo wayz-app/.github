@@ -31,8 +31,8 @@ MongoDB (wayz-api.dafug.mongodb.net) <br>
 exemple
 
 - Applications
-  - [wayz-api](../../../wayz-api)
-  - [wayz-web](/wayz-web)
+  - [wayz-api](../../../../wayz-api)
+  - [wayz-web](../../../../wayz-web)
 - Deployments
   - [wayz-api](/wayz-api)
   - [wayz-web](/wayz-web)
