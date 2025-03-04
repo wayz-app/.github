@@ -28,11 +28,11 @@ MongoDB (wayz-api.dafug.mongodb.net) <br>
 <img data-v-8abb0824="" alt="Badge Preview" src="https://uptime-kuma.edj-labs.com/api/badge/49/uptime">
 
 
-exemple
 
-- Applications
-  - [wayz-api](../../../../wayz-api)
-  - [wayz-web](../../../../wayz-web)
-- Deployments
-  - [wayz-api](/wayz-api)
-  - [wayz-web](/wayz-web)
+- Repositories
+  - Applications
+    - [wayz-api](../../../../wayz-api)
+    - [wayz-web](../../../../wayz-web)
+  - Deployments
+    - [wayz-api](/wayz-api)
+    - [wayz-web](/wayz-web)
